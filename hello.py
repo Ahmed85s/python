@@ -1,3 +1,2 @@
-print('hello')
-print(123)
-print('last')
+print('hello world!')
+print('multiline hello world!')
